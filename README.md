@@ -8,6 +8,7 @@ https://console.amap.com/dev/key/app
 二、Cursor设置
 1.设置mcp server
 设置->MCP-> mcp.json
+
 {
   "mcpServers": {
     "gaode": {
